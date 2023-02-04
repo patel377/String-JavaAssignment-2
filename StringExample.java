@@ -1,4 +1,4 @@
-//In Java, string is basically an object that represents sequence of char values. An array of characters works same as Java string
+//In Java, string is basically an object that represents sequence of char values. An array of characters works same as Java string.
 
 class StringExample{    
     public static void main(String args[]){    

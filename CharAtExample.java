@@ -1,4 +1,5 @@
-//we are counting the number of vowels present in a string with the help of the charAt() method
+//we are counting the number of vowels present in a string with the help of the charAt() method.
+
 import java.util.*;  
   
 public class CharAtExample6  
